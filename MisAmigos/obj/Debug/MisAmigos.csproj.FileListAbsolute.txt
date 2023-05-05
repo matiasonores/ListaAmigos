@@ -1,0 +1,10 @@
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.csproj.AssemblyReference.cache
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.MisAmigos.resources
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.Properties.Resources.resources
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.csproj.GenerateResource.cache
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.csproj.CoreCompileInputs.cache
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\bin\Debug\MisAmigos.exe.config
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\bin\Debug\MisAmigos.exe
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\bin\Debug\MisAmigos.pdb
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.exe
+C:\Users\Topito\Documents\Proyectos\MisAmigos\MisAmigos\obj\Debug\MisAmigos.pdb
